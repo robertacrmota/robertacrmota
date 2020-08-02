@@ -1,4 +1,4 @@
-### Hi, I'm Roberta 👋 
+## Roberta Mota—@robertacrmota
 
 <!--
 **robertacrmota/robertacrmota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Roberta—a computer scientist enthusiastic about developing software that allows people to visualize, analyze, and make data-driven decisions. My projects commonly involve interactive data visualizations, and my personal projects portray my genuine passion for web technologies. :heart:
+
+## Get in touch
+
+- Personal site: http://robertacrmota.com
+- LinkedIn: http://linkedin.com/in/robertacrmota/
+- Youtube: http://youtube.com/robertacmota
