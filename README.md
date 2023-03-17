@@ -19,6 +19,6 @@ Hi, I'm Roberta—a computer scientist enthusiastic about developing software th
 
 ## Get in touch
 
-- Personal site: http://robertacrmota.com
+- Personal site: http://robertacmota.com
 - LinkedIn: http://linkedin.com/in/robertacrmota/
 - Youtube: http://youtube.com/robertacmota
