@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Roberta—a computer scientist enthusiastic about developing software that allows people to visualize, analyze, and make data-driven decisions. My projects commonly involve interactive data visualizations, and my personal projects portray my genuine passion for web technologies. :heart:
+Hi, I'm Roberta—a computer scientist enthusiastic about developing software that allows people to visualize, analyze, and make data-driven decisions. My reasearch and personal projects commonly involve interactive data visualizations :heart:
 
 ## Get in touch
 
