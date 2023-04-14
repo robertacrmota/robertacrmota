@@ -1,4 +1,4 @@
-## Roberta Mota—@robertacrmota
+## Roberta Mota—@robertacmota
 
 <!--
 **robertacrmota/robertacrmota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
